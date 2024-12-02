@@ -48,8 +48,9 @@ class MainActivity : ComponentActivity() {
             val intent = Intent(this,WeatherActivity::class.java);
             startActivity(intent);
         }
-
+        
         //UI elemek inicialiozállása
 
     }//oncreate
 }//class
+//változtatások elvégzése githubon bellül
