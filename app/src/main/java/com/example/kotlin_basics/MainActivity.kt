@@ -54,3 +54,4 @@ class MainActivity : ComponentActivity() {
     }//oncreate
 }//class
 //változtatások elvégzése githubon bellül
+//változtatások elvégzése locally

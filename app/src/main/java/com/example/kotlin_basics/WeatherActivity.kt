@@ -62,5 +62,5 @@ class WeatherActivity : AppCompatActivity() {
         });
 
     };//fun vége
-
+//git basics
 }
