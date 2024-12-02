@@ -5,6 +5,7 @@ data class WeatherResponse (
 )
 
 
+
 data class Main(
     val temp:Float,
 )
